@@ -1,5 +1,6 @@
 resources
 =========
+*for the intersection between Haskell and Lisp*
 
 Written materials for Lisps in Haskell
 
@@ -12,3 +13,7 @@ Written materials for Lisps in Haskell
 * 2013 - present [Leesp](https://github.com/mankyKitty/leesp)
 * 2014 - [Prefix Operators in Haskell](http://technicae.cogitat.io/2014/01/prefix-operators-in-haskell.html)
 * 2014 - (New) [Lisk](https://github.com/haskell-lisp/lisk)
+
+Visual materials for Haskell-Lisp
+
+* 
