@@ -3,6 +3,7 @@ resources
 *for the intersection between Haskell and Lisp*
 
 ### Written materials for Lisps in Haskell
+(or Haskells written in Lisps)
 
 * 1991-1993 - An [early Haskell](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/syntax/haskell/0.html) written in Lisp (source as [github import](https://github.com/haskell-lisp/yale-haskell))
 * 2006 - [Writing A Lisp Interpreter In Haskell](http://www.defmacro.org/ramblings/lisp-in-haskell.html)
