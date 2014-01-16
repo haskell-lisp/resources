@@ -2,7 +2,7 @@ resources
 =========
 *for the intersection between Haskell and Lisp*
 
-Written materials for Lisps in Haskell
+### Written materials for Lisps in Haskell
 
 * 1991-1993 - An [early Haskell](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/code/syntax/haskell/0.html) written in Lisp (source as [github import](https://github.com/haskell-lisp/yale-haskell))
 * 2006 - [Writing A Lisp Interpreter In Haskell](http://www.defmacro.org/ramblings/lisp-in-haskell.html)
@@ -14,6 +14,6 @@ Written materials for Lisps in Haskell
 * 2014 - [Prefix Operators in Haskell](http://technicae.cogitat.io/2014/01/prefix-operators-in-haskell.html)
 * 2014 - (New) [Lisk](https://github.com/haskell-lisp/lisk)
 
-Visual materials for Haskell-Lisp
+### Visual materials for Haskell-Lisp
 
 * 
