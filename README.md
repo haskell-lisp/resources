@@ -2,6 +2,11 @@ resources
 =========
 *for the intersection between Haskell and Lisp*
 
+### Open Source Projects
+
+The list of projects that deal with Lisp and Haskell are presented by the github org you're looking at right now :-) Visit here for more details:
+ * https://github.com/haskell-lisp
+ 
 ### Written materials for Lisps in Haskell
 (or Haskells written in Lisps)
 
