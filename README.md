@@ -16,4 +16,5 @@ resources
 
 ### Visual materials for Haskell-Lisp
 
-* 
+* [Logos](images/logos)
+* Desktop [Backgrounds](images/backgrounds)
