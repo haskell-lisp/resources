@@ -8,4 +8,5 @@ Written materials for Lisps in Haskell
 * 2007 - [Liskell - Haskell Semantics with Lisp Syntax](http://clemens.endorphin.org/ILC07-Liskell-draft.pdf)
 * 2010 - [Lisk](http://chrisdone.com/posts/lisk-lisp-haskell)
 * 2010 - present - [Husk Scheme](http://justinethier.github.io/husk-scheme/)
+* 2013 - present [Leesp](https://github.com/mankyKitty/leesp)
 * 2014 - [Prefix Operators in Haskell](http://technicae.cogitat.io/2014/01/prefix-operators-in-haskell.html)
