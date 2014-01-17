@@ -6,7 +6,12 @@ resources
 
 The list of projects that deal with Lisp and Haskell are presented by the github org you're looking at right now :-) Visit here for more details:
  * https://github.com/haskell-lisp
- 
+
+### Community
+
+ * IRC (Freenode): #haskell-lisp, #haskell
+ * Twitter: http://twitter.com/HaskellLisp
+
 ### Written materials for Lisps in Haskell
 (or Haskells written in Lisps)
 
